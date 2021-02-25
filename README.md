@@ -1,4 +1,4 @@
-##Python Projects
+# Python Projects
 
 Interesting python projects done as part of core courses at `IIITD`
 
@@ -10,18 +10,18 @@ Interesting python projects done as part of core courses at `IIITD`
 │   ├── AssemblyCode.txt
 │   ├── Documentation\ -\ Assembler.pdf
 │   └── MachineCode.txt
-├── Betweenness\ Centrality
+├── BetweennessCentrality
 │   └── Betweenness_Centrality.py
-├── Booths\ Algorithm
+├── BoothsAlgorithm
 │   ├── BA.py
 │   ├── Documentation.pdf
 │   └── Output.txt
-├── Geometric\ Transformations
+├── GeometricTransformations
 │   └── 2D_Transformations.py
-├── K-Map\ Solver
+├── K-MapSolver
 │   └── K-Map_Solver.py
 ├── README.md
-├── Rubiks\ Cube\ Solver
+├── RubiksCubeSolver
 │   ├── rubik.py
 │   └── solver.py
 └── Weather
