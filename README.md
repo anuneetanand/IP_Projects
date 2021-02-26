@@ -16,6 +16,10 @@ Python based projects done as part of core courses at `IIITD`
 │   ├── BA.py
 │   ├── Documentation.pdf
 │   └── Output.txt
+├── Cryptography
+│   ├── DictionaryAttack.py
+│   ├── PasswordGenerator.py
+│   └── dictionary.txt
 ├── GeometricTransformations
 │   └── 2D_Transformations.py
 ├── K-MapSolver
@@ -64,6 +68,12 @@ Betweenness Centrality is a measure of centrality in a graph based on shortest p
 **Non-Restoring Division Algorithm:** It divides two signed binary numbers and produce quotient & remainder.
 
 **Collaborator:** [Pruthwiraj Nanda](https://github.com/pruthwi07) 
+
+
+## Cryptography :lock:
+
+**`PasswordGenerator.py`** : Generates efficient passwords based from user input passwords.   
+**`DictionaryAttack.py`** : Dictionary Attack on passwords.
 
 ## Geometric Transformations :o:
 
