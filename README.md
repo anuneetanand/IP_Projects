@@ -1,6 +1,6 @@
 # Python Projects
 
-Interesting python projects done as part of core courses at `IIITD`
+Python based projects done as part of core courses at `IIITD`
 
 ## Folder Structure  
 
