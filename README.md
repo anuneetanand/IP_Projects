@@ -79,6 +79,10 @@ Betweenness Centrality is a measure of centrality in a graph based on shortest p
 
 Supports Rotate, Scale and Translate operations on Disc and Polygon.
 
+## Image Processing 🖼️
+
+Implementation of Image processing algorithms like Bilinear Interpolation, Histogram Equalisation, Fltering, RGB-HSV Conversion and Denoising
+
 ## K-Map Solver :pencil2:
 
 The Karnaugh Map or K-Map is a method of simplifying Boolean algebra expressions.The cells in the K-Map are ordered using the Gray Code. K-Map can be created using either SOP (sum of products) or POS (product of sums).
