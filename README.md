@@ -8,7 +8,7 @@ Python based projects done as part of core courses at `IIITD`
 ├── Assembler
 │   ├── Assembler.py
 │   ├── AssemblyCode.txt
-│   ├── Documentation\ -\ Assembler.pdf
+│   ├── Documentation - Assembler.pdf
 │   └── MachineCode.txt
 ├── BetweennessCentrality
 │   └── Betweenness_Centrality.py
@@ -22,6 +22,24 @@ Python based projects done as part of core courses at `IIITD`
 │   └── dictionary.txt
 ├── GeometricTransformations
 │   └── 2D_Transformations.py
+├── ImageProcessing
+│   ├── Filtering
+│   │   ├── AnuneetAnand_2018022_cameraman.jpg
+│   │   ├── AnuneetAnand_2018022_code.py
+│   │   ├── AnuneetAnand_2018022_denoiseIm.jpg
+│   │   └── AnuneetAnand_2018022_noiseIm.jpg
+│   ├── HistogramEqualisation
+│   │   ├── AnuneetAnand_2018022_Image.jpg
+│   │   └── AnuneetAnand_2018022_code.py
+│   ├── Interpolation
+│   │   ├── AnuneetAnand_2018022_Image_512x512.bmp
+│   │   ├── AnuneetAnand_2018022_Image_64x64.jpg
+│   │   └── AnuneetAnand_2018022_code.py
+│   └── RGB
+│       ├── AnuneetAnand_2018022_Image.jpg
+│       ├── AnuneetAnand_2018022_code.py
+│       ├── AnuneetAnand_2018022_noiseIm.jpg
+│       └── AnuneetAnand_2018022_rgbIm.tif
 ├── K-MapSolver
 │   └── K-Map_Solver.py
 ├── README.md
